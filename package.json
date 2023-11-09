@@ -1,0 +1,12 @@
+{
+  "name": "mongoose-cosmosdb",
+  "version": "1.0.0",
+  "description": "This is a project to help get started with Mongoose and Azure Cosmos DB for MongoDB API",
+  "main": "index.js",
+  "author": "Sajeetharan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "mongoose": "^6.10.0"
+  }
+}
